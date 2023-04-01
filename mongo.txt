@@ -1,0 +1,22 @@
+[
+{"idcerveza": 1,  "nombre":"aguila","detalle":"cerveza aguila"},
+  {"idcerveza": 2,  "nombre":"poker","detalle":"cerveza poker"}
+  ]
+
+
+[
+{"id_categoria": 1,  "nombre":"LAGERS","detalle":"CATEGORIA LAGERS"},
+  {"id_categoria": 2,  "nombre":"ALES","detalle":"CATEGORIA ALES"}
+  ]
+  
+
+[
+{"id_tipo": 1,  "nombre":"DARK"},
+  {"id_tipo": 2,  "nombre":"PALE"},
+ {"id_tipo": 2,  "nombre":"BOKCS"},
+ {"id_tipo": 2,  "nombre":"STOUTS"},
+ {"id_tipo": 2,  "nombre":"PORTERS"} ,
+{"id_tipo": 2,  "nombre":"BELGIANS"}  ,
+ {"id_tipo": 2,  "nombre":"SOUR"}  
+  ]
+  
